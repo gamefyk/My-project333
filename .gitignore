@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /Library
 /Temp
 /UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
